@@ -29,7 +29,21 @@
         <hr class="text-light my-5">
         <div class="row mb-5">
             <div class="col-4 d-flex justify-content-evenly">
-                <span></span>
+                <span><a href="#" class="text-decoration-none me-4">
+                        <i class="rounded-circle px-1 py-1 fa-brands fa-facebook icon-item"></i>
+                    </a></span>
+                <span><a href="#" class="text-decoration-none me-4">
+                        <i class="rounded-circle px-1 py-1 fa-brands fa-twitter icon-item"></i>
+                    </a></span>
+                <span><a href="#" class="text-decoration-none me-4">
+                        <i class="rounded-circle px-1 py-1 fa-brands fa-instagram icon-item"></i>
+                    </a></span>
+                <span><a href="#" class="text-decoration-none me-4">
+                        <i class="rounded-circle px-1 py-1 fa-brands fa-linkedin icon-item"></i>
+                    </a></span>
+                <span><a href="#" class="text-decoration-none me-4">
+                        <i class="rounded-circle px-1 py-1 fa-brands fa-youtube icon-item"></i>
+                    </a></span>
             </div>
             <div class="col-2"></div>
             <div class="col-6 d-flex justify-content-evenly">

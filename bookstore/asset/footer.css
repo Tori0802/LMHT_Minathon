@@ -25,3 +25,13 @@ footer h4 {
     text-decoration: underline;
     color: #fff;
 }
+
+.icon-item {
+    color: #a4152d !important;
+    background-color: #fff;
+}
+
+.icon-item:hover {
+    color: #fff !important;
+    background-color: transparent;
+}
