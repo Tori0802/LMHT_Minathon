@@ -1,7 +1,7 @@
 <?php
   require_once("./view/header.php");
 ?>
-<div class="row">
+<div class="row mb-5">
     <div class="col-sm-2">
         <?php
         require_once("./view/sidebar.php");
