@@ -18,6 +18,16 @@ a.navbar-hover:hover {
     margin-left: 25px !important;
 }
 
+.icon-item-notification {
+    color: #a4152d !important;
+    background-color: #fff !important;
+}
+
+.icon-item-notification:hover {
+    color: #fff !important;
+    background-color: #a4152d !important;
+}
+
 /* #about:hover,
 #contact:hover {
     color: #fff;

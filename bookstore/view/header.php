@@ -58,15 +58,15 @@
                             <a href="/bookstore/news"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">News</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a href="/bookstore/about"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">About</a>
-                        </li>
-                        <li class="nav-item">
+                        </li> -->
+                        <!-- <li class="nav-item">
                             <a href="/bookstore/contact"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
                                 us</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a href="/bookstore/hospital"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Hospital</a>
@@ -168,17 +168,17 @@
 
                 <!-- Cart -->
                 <?php 
-          // if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
-          //   echo <<< _END
-          //   <a href="/bookstore/cart">
-          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-          //   </a>
-          //   _END;
-          // } else {
-          //   echo <<< _END
-          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-          //   _END;
-          // }
+          if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
+            echo <<< _END
+            <a href="/bookstore/notification">
+              <i class="fa-solid fa-bell icon-item-notification fs-4 rounded-circle px-1 py-1"></i>
+            </a>
+            _END;
+          } else {
+            echo <<< _END
+              <i class="fa-solid fa-bell icon-item-notification fs-4 rounded-circle px-1 py-1"></i>
+            _END;
+          }
         ?>
 
             </div>
@@ -237,12 +237,3 @@
             $("#exampleModalCenter").modal('show');
         });
         </script>
-
-        <!-- 
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
-  </body>
-</html> -->
