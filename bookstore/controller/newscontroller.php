@@ -13,5 +13,8 @@
         function news3() {
             $this->view("news3");
         }
+        function news4() {
+            $this->view("news4");
+        }
     }
 ?>

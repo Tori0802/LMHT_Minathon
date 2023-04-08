@@ -3,8 +3,8 @@
 ?>
 
 <div id="intro" class="p-5 text-center bg-light">
-    <h1 class="mb-3 h2">Trang tin tức</h1>
-    <p class="mb-3">Cập nhật những thông tin mới nhất về sách</p>
+    <h1 class="mb-3 h2">Latest news will be updated regularly</h1>
+    <p class="mb-3"></p>
 </div>
 <div class="container" data-aos="fade-up">
     <!--Section: Content-->
@@ -13,18 +13,17 @@
         <div class="col-lg-4 col-md-12 mb-4">
         <div class="card">
             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="/bookstore/asset/img/news/news1.png" class="img-fluid"  width="500px;" />
+            <img src="https://images2.thanhnien.vn/zoom/351_219/528068263637045248/2023/2/17/hienmau-16766626530611676908606-43-0-1293-2000-crop-1676662663350443571343.jpg" class="img-fluid"  width="500px;"/>
             <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
             </a>
             </div>
             <div class="card-body">
-            <h5 class="card-title">Sách phân tích đời sống vỉa hè Sài Gòn</h5>
+            <h5 class="card-title">Gần 60.000 lượt hiến máu qua 'Giọt máu vàng'</h5>
             <p class="card-text">
-            Cuốn "Đời sống vỉa hè Sài Gòn" (Annette M. Kim) khắc họa nét văn hóa đường 
-            phố TP HCM và tương lai của nó trong quá trình đô thị hóa.
+            Sở Y tế TP.HCM thông tin ứng dụng 'Giọt máu vàng' đã có hơn 35.000 người đăng ký sử dụng với gần 60.000 lượt hiến máu, tỷ lệ đăng ký hiến máu nhắc lại đạt gần 40%.
             </p>
-            <a href="/bookstore/news/news1" class="btn btn-primary">Đọc thêm</a>
+            <a href="/bookstore/news/news1" class="btn" style="background-color: #dc3545; color: white">Read more</a>
             </div>
         </div>
         </div>
@@ -32,18 +31,17 @@
         <div class="col-lg-4 col-md-6 mb-4">
         <div class="card">
             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="/bookstore/asset/img/news/news2.jpg" class="img-fluid"  width="500px;" />
+            <img src="https://images2.thanhnien.vn/Uploaded/minhgiao/2022_12_19/img-6245-8487.jpg" class="img-fluid"  width="500px;" />
             <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
             </a>
             </div>
             <div class="card-body">
-            <h5 class="card-title">Sách 'Ai đó chạy cùng ta': Hành trình trưởng thành</h5>
+            <h5 class="card-title">Chủ nhật Đỏ tiếp nhận máu hiến cho điều trị</h5>
             <p class="card-text">
-            Nhà văn Israel David Grossman viết về giá trị của tình yêu 
-            thuần khiết trên hành trình trưởng thành, trong "Ai đó chạy cùng ta". 
+                Ngày hội chính Chủ nhật Đỏ lần thứ 15 - năm 2023 đã khai mạc sáng 18.12 tại Đại học Bách khoa Hà Nội. Bí thư T.Ư Đoàn Nguyễn Tường Lâm, Thứ trưởng Bộ Y tế Trần Văn Thuấn đã tham dự.
             </p>
-            <a href="/bookstore/news/news2" class="btn btn-primary">Đọc thêm</a>
+            <a href="/bookstore/news/news2" class="btn" style="background-color: #dc3545; color: white">Read more</a>
             </div>
         </div>
         </div>
@@ -51,18 +49,17 @@
         <div class="col-lg-4 col-md-6 mb-4">
         <div class="card">
             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="/bookstore/asset/img/news/news3.jpg" class="img-fluid" width="500px;" />
+            <img src="https://tambinh.vn/wp-content/uploads/2018/11/IMG_0243-2.jpg" class="img-fluid" width="500px;" />
             <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
             </a>
             </div>
             <div class="card-body">
-            <h5 class="card-title">Sách về những bức thư chưa từng công bố của Xuân Quỳnh</h5>
+            <h5 class="card-title">Quy trình hiến máu nhân đạo</h5>
             <p class="card-text">
-            Cuốn "Trong đáy mắt trời xanh là vĩnh viễn" gồm nhật ký và những 
-            bức thư chưa từng công bố của nữ sĩ Xuân Quỳnh.
+                Hiến máu nhân đạo không những không ảnh hưởng tới sức khỏe mà còn có một số tác dụng bất ngờ nếu người tham gia hiến máu thực hiện đúng quy trình mà các tình nguyện viên và nhân viên ý tế hướng dẫn.
             </p>
-            <a href="/bookstore/news/news3" class="btn btn-primary">Đọc thêm</a>
+            <a href="/bookstore/news/news3" class="btn" style="background-color: #dc3545; color: white">Read more</a>
             </div>
         </div>
         </div>
@@ -72,57 +69,19 @@
         <div class="col-lg-4 col-md-12 mb-4">
         <div class="card">
             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="/bookstore/asset/img/news/news4.jpg" class="img-fluid"  width="500px;" />
+            <img src="https://vsh.org.vn/pic/QA/images/IMG_4035RE.jpg" class="img-fluid"  width="500px;" />
             <a href="/bookstore/news/news4">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
             </a>
             </div>
             <div class="card-body">
-            <h5 class="card-title">'Người bán hạnh phúc' - sách gợi trí tưởng tượng cho trẻ em</h5>
+            <h5 class="card-title">Những điều người hiến máu tình nguyện cần biết</h5>
             <p class="card-text">
-            Cuốn "Người bán hạnh phúc" của nhà văn Italy Davide Calì 
-            mang đến trẻ thơ những định nghĩa hạnh phúc qua góc nhìn ngộ nghĩnh.
+            Hiến máu tình nguyện là một hành động mang đậm giá trị nhân văn, là nghĩa cử cao đẹp giữa người với người. Thể hiện tinh thần tương thân tương ái “lá lành đùm lá rách” của dân tộc ta. 
             </p>
-            <a href="#!" class="btn btn-primary">Đọc thêm</a>
+            <a href="/bookstore/news/news4" class="btn" style="background-color: #dc3545; color: white">Read more</a>
             </div>
         </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card">
-            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/022.jpg" class="img-fluid"  width="500px;"/>
-            <a href="#!">
-                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Post title</h5>
-            <p class="card-text">
-                Some quick example text to build on the card title and make up the bulk of the
-                card's content.
-            </p>
-            <a href="#!" class="btn btn-primary">Read</a>
-            </div>
-        </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 mb-4">
-        <div class="card">
-            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-            <img src="https://mdbootstrap.com/img/new/standard/nature/035.jpg" class="img-fluid"  width="500px;"/>
-            <a href="#!">
-                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-            </a>
-            </div>
-            <div class="card-body">
-            <h5 class="card-title">Post title</h5>
-            <p class="card-text">
-                Some quick example text to build on the card title and make up the bulk of the
-                card's content.
-            </p>
-            <a href="#!" class="btn btn-primary">Read</a>
-            </div>
         </div>
         </div>
     </div>
