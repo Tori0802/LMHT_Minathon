@@ -20,3 +20,8 @@ footer h4 {
 .list-footer>li:hover {
     text-decoration: underline;
 }
+
+.navbar-footer:hover {
+    text-decoration: underline;
+    color: #fff;
+}

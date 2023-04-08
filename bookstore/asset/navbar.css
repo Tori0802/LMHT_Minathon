@@ -1,3 +1,30 @@
-a.nav-link:hover {
-    color: #dc3545 !important;
+.navbar-hover:hover {
+    background-color: #dc3545;
 }
+
+a.navbar-hover:hover {
+    color: #fff;
+}
+
+.form-dang-nhap:focus {
+    box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.7);
+}
+
+#exampleCheck1:checked[type="checkbox"] {
+    background-color: #dc3545;
+}
+
+.navbar-brand {
+    margin-left: 25px !important;
+}
+
+/* #about:hover,
+#contact:hover {
+    color: #fff;
+    background-color: #dc3545;
+} */
+
+/* .link-navbar-hover:hover {
+    color: #fff;
+    background-color: #dc3545;
+} */

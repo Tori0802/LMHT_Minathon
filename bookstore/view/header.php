@@ -35,8 +35,8 @@
         <!-- Start Navbar -->
         <nav class="navbar navbar-expand-md navbar-white bg-white">
             <div class="container-fluid" style="margin: 0 10px;">
-                <a href="#" class="navbar-brand" style="margin-right:50px;"><img src="/bookstore/asset/img/logo.png"
-                        alt="" width="100px"></a>
+                <a href="#" class="navbar-brand"><img src="/bookstore/asset/img/BloodBond-logo.png" alt="" width="100px"
+                        class="rounded-circle"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
@@ -44,10 +44,13 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="/bookstore/about" class="nav-link fw-bolder link-dark">About</a>
+                            <a href="/bookstore/about"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">About</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/bookstore/contact" class="nav-link fw-bolder link-dark">Contact us</a>
+                            <a href="/bookstore/contact"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
+                                us</a>
                         </li>
                     </ul>
                 </div>
@@ -85,7 +88,7 @@
 
                 <!-- Login/Signup Modal -->
                 <span id="loginModal">
-                    <button type="button" class="btn btn-outline-danger rounded-pill mx-3" data-toggle="modal"
+                    <button type="button" class="btn btn-outline-danger rounded-pill mx-3 fw-bolder" data-toggle="modal"
                         data-target="#exampleModalCenter"> Đăng nhập/Đăng ký </button>
                     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
                         aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -101,18 +104,21 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="form-group">
-                                            <label class="my-3" for="login_username">Tài khoản:</label>
-                                            <input type="text" class="form-control" name="username" id="login_username"
-                                                placeholder="Tên tài khoản">
+                                            <label class="my-3 fw-bolder" for="login_username">Tài khoản:</label>
+                                            <input type="text" class="form-control form-dang-nhap" name="username"
+                                                id="login_username" placeholder="Tên tài khoản">
                                         </div>
                                         <div class="form-group">
-                                            <label class="my-3" for="login_password">Mật khẩu:</label>
-                                            <input type="password" class="form-control" name="password"
+                                            <label class="my-3 fw-bolder" for="login_password">Mật khẩu:</label>
+                                            <input type="password" class="form-control form-dang-nhap" name="password"
                                                 id="login_password" placeholder="Mật khẩu">
                                         </div>
                                         <div class="form-group form-check my-3">
-                                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                            <label class="form-check-label" for="exampleCheck1">Ghi nhớ tôi vào lần đăng
+                                            <input type="checkbox" class="form-check-input form-dang-nhap"
+                                                id="exampleCheck1">
+                                            <label class="form-check-label fw-bolder" for="exampleCheck1">Ghi nhớ tôi
+                                                vào
+                                                lần đăng
                                                 nhập sau.</label>
                                         </div>
                                         <div>
@@ -122,11 +128,11 @@
                                         </div>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-primary">
+                                        <button type="button" class="btn btn-secondary">
                                             <a href="/bookstore/user/signup"
                                                 style="text-decoration:none; color:white;">Đăng kí</a>
                                         </button>
-                                        <button type="submit" class="btn btn-success" name="login_button"
+                                        <button type="submit" class="btn btn-danger" name="login_button"
                                             id="login_button">Đăng nhập</button>
                                     </div>
                                 </form>
