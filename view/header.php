@@ -52,6 +52,10 @@
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
                                 us</a>
                         </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/hospital"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Hospital</a>
+                        </li>
                     </ul>
                 </div>
                 <form class="d-flex">
