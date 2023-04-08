@@ -1,0 +1,7 @@
+.sidebar-hover:hover {
+    background-color: #dc3545;
+}
+
+a.sidebar-hover:hover {
+    color: #fff !important;
+}
