@@ -157,17 +157,17 @@
 
                 <!-- Cart -->
                 <?php 
-          if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
-            echo <<< _END
-            <a href="/bookstore/cart">
-              <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-            </a>
-            _END;
-          } else {
-            echo <<< _END
-              <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-            _END;
-          }
+          // if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
+          //   echo <<< _END
+          //   <a href="/bookstore/cart">
+          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
+          //   </a>
+          //   _END;
+          // } else {
+          //   echo <<< _END
+          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
+          //   _END;
+          // }
         ?>
 
             </div>
