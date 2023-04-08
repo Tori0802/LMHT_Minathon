@@ -51,6 +51,14 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav">
                         <li class="nav-item">
+                            <a href="/bookstore/social"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Social</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/news"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">News</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="/bookstore/about"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">About</a>
                         </li>
@@ -58,6 +66,10 @@
                             <a href="/bookstore/contact"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
                                 us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/hospital"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Hospital</a>
                         </li>
                     </ul>
                 </div>

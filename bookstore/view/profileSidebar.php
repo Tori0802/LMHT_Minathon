@@ -15,34 +15,27 @@
 ?> -->
 
 <div class="d-flex flex-column align-items-center text-center p-3 py-5">
-    <img class="rounded-circle mt-5" width="150px" src="<?php echo $_SESSION['img']?? "/bookstore/asset/img/user/user.png" ?>">
-    <span class="font-weight-bold"><?php echo $_SESSION['firstname']." ".$_SESSION['lastname']?></span>
-    <span class="text-black-50"><?php echo $_SESSION['email'] ?></span>
+    <!-- Avatar -->
+    <img class="rounded-circle mt-1" width="200px" src="<?php echo $_SESSION['img']?? "/bookstore/asset/img/user/user.png" ?>">
+    <span class="fs-3 fw-semibold mt-4 mb-5"><?php echo $_SESSION['firstname']." ".$_SESSION['lastname']?></span>
+    <span class="text-black-75 fst-italic fs-5"><?php echo $_SESSION['email'] ?></span>
 
     <?php
         if (isset($_SESSION['user_role']) && ($_SESSION['user_role'] == 1)) {
             echo <<< _END
-                <span class="font-weight-bold" style="color: green;">ADMIN</span>
+                <span class="mt-1 mb-5 fs-5 fw-bold" style="color: green;">ADMIN</span>
             _END;
         }
     ?>
 
+    <!-- Edit information -->
     <form action="/bookstore/profile" method="POST">
-        <button type="submit" class="btn btn-outline-primary" style="margin-top:10px">Chỉnh sửa thông tin</button>
+        <button type="submit" style="background-color: rgba(220,53,69,1); margin-top: 50px" class="btn profile-button text-light fw-bold">Edit information</button>
     </form>
 
     <?php
         if (isset($_SESSION['user_role']) && ($_SESSION['user_role'] == 1)) {
             echo <<< _END
-            <form action="/bookstore/profile/usermanager" method="POST">
-                <button type="submit" class="btn btn-outline-success" style="margin-top: 10px;">Quản lí người dùng</button>
-            </form>
-            <form action="/bookstore/profile/bookmanager" method="POST">
-                <button type="submit" class="btn btn-outline-success" style="margin-top: 10px;">Quản lí sách</button>
-            </form>
-            <form action="/bookstore/profile/ordermanager" method="POST">
-                <button type="submit" class="btn btn-outline-success" style="margin-top: 10px;">Quản lí đơn hàng</button>
-            </form>
             _END;
         }
     ?>
