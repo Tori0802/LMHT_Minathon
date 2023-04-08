@@ -1,0 +1,260 @@
+.social .carousel-control-prev-icon,
+.social .carousel-control-next-icon {
+    background-color: red;
+}
+
+/* Profile Feed */
+
+
+.social .profile-feed {
+    margin-bottom: 10px;
+}
+
+.social .cardbox {
+    border-radius: 3px;
+    margin-bottom: 20px;
+    padding: 0px !important;
+}
+
+
+/* Cardbox Heading */
+
+.social .cardbox .cardbox-heading {
+    padding: 16px;
+    margin: 0;
+}
+
+.social .cardbox .btn-flat.btn-flat-icon {
+    position: absolute;
+    left: 35rem;
+}
+
+.social .cardbox .float-right .dropdown-menu {
+    position: relative;
+    left: 13px !important;
+}
+
+.social .cardbox .float-right a:hover {
+    background: #f4f4f4 !important;
+}
+
+.social .cardbox .float-right a.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 4px 0px 4px 10px;
+    clear: both;
+    font-weight: 400;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 14px !important;
+    color: #848484;
+    text-align: inherit;
+    white-space: nowrap;
+    background: 0 0;
+    border: 0;
+}
+
+
+/* Media Section */
+.social .media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.social .d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+.social .media .mr-3 {
+    margin-right: 1rem !important;
+}
+
+.social .media img {
+    width: 48px !important;
+    height: 48px !important;
+    padding: 2px;
+    border: 2px solid #f4f4f4;
+}
+
+.social .media-body {
+    -ms-flex: 1;
+    flex: 1;
+    padding: .4rem !important;
+}
+
+.social .media-body p {
+    font-family: 'Rokkitt', serif;
+    font-weight: 500 !important;
+    font-size: 14px;
+    color: #88898a;
+}
+
+.social .media-body small span {
+    font-family: 'Rokkitt', serif;
+    font-size: 12px;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+
+/* Cardbox Item */
+.social .cardbox .cardbox-item {
+    position: relative;
+    display: block;
+}
+
+.social .cardbox .cardbox-item img {}
+
+.social .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.social .fw {
+    width: 100% !important;
+    height: auto;
+}
+
+
+/* Cardbox Base */
+.social .cardbox-base {
+    border-bottom: 2px solid #f4f4f4;
+}
+
+.social .cardbox-base ul {
+    margin: 10px 0px 10px 15px !important;
+    padding: 10px !important;
+    font-size: 0px;
+    display: inline-block;
+}
+
+.social .cardbox-base li {
+    list-style: none;
+    margin: 0px 0px 0px -8px !important;
+    padding: 0px 0px 0px 0px !important;
+    display: inline-block;
+}
+
+.social .cardbox-base li a {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.social .cardbox-base li a i {
+    position: relative;
+    top: 4px;
+    font-size: 16px;
+    color: #8d8d8d;
+    margin-right: 15px;
+}
+
+.social .cardbox-base li a span {
+    font-family: 'Rokkitt', serif;
+    font-size: 14px;
+    color: #8d8d8d;
+    margin-left: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.social .cardbox-base li a em {
+    font-family: 'Rokkitt', serif;
+    font-size: 14px;
+    color: #8d8d8d;
+    position: relative;
+    top: 3px;
+}
+
+.social .cardbox-base li a img {
+    width: 25px;
+    height: 25px;
+    margin: 0px !important;
+    border: 2px solid #fff;
+}
+
+
+/* Cardbox Comments  */
+.social .cardbox-comments {
+    padding: 10px 40px 20px 40px !important;
+    font-size: 0px;
+    text-align: center;
+    display: inline-block;
+}
+
+.social .cardbox-comments .comment-avatar img {
+    margin-top: 1px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+
+.social .cardbox-comments .comment-body {
+    overflow: auto;
+}
+
+.social .search {
+    position: relative;
+    right: -60px;
+    top: -40px;
+    margin-bottom: -40px;
+    border: 2px solid #f4f4f4;
+    width: 100%;
+    overflow: hidden;
+}
+
+.social .search input[type="text"] {
+    background-color: #fff;
+    line-height: 10px;
+    padding: 15px 60px 20px 10px;
+    border: none;
+    border-radius: 4px;
+    width: 350px;
+    font-family: 'Rokkitt', serif;
+    font-size: 14px;
+    color: #8d8d8d;
+    height: inherit;
+    font-weight: 700;
+}
+
+.social .search button {
+    position: absolute;
+    right: 0;
+    top: 0px;
+    border: none;
+    background-color: transparent;
+    color: #bbbbbb;
+    padding: 15px 25px;
+    cursor: pointer;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.social .search button i {
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+}
+
+
+/* Author */
+.social .author a {
+    font-family: 'Rokkitt', serif;
+    font-size: 16px;
+    color: #00C4CF;
+}
+
+.social .author p {
+    font-family: 'Rokkitt', serif;
+    font-size: 16px;
+    color: #8d8d8d;
+}
