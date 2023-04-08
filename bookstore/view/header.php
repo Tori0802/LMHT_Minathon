@@ -44,6 +44,10 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav">
                         <li class="nav-item">
+                            <a href="/bookstore/social"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Social</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="/bookstore/news"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">News</a>
                         </li>
