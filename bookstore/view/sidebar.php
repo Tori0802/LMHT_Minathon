@@ -1,47 +1,47 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <title>Document</title>
-</head>
-<body> -->
-<nav>
-    <ul>
-        <li>
-            <a href="#" class="logo">
-                <img src="/logo.jpg" alt="">
-                <span class="nav-item">Code Info</span>
+<div class="d-flex flex-column flex-shrink-0 p-1 bg-white border-2 border-danger rounded" style="width: 280px;">
+    <ul class="nav nav-pills flex-column mb-auto">
+        <li class="nav-item">
+            <a href="#" class="nav-link link-dark fw-bolder sidebar-hover" aria-current="page">
+                <svg class="bi me-2" width="16" height="16">
+                    <use xlink:href="/bookstore/home"></use>
+                </svg>
+                Đối tác tiêu biểu
             </a>
         </li>
-        <li><a href="#">
-                <i class="fas fa-home"></i>
-                <span class="nav-item">Home</span>
-            </a></li>
-        <li><a href="#">
-                <i class="fas fa-user"></i>
-                <span class="nav-item">Home</span>
-            </a></li>
-        <li><a href="#">
-                <i class="fas fa-wallet"></i>
-                <span class="nav-item">Home</span>
-            </a></li>
-        <li><a href="#">
-                <i class="fas fa-wallet"></i>
-                <span class="nav-item">Home</span>
-            </a></li>
-        <li><a href="#">
-                <i class="fas fa-wallet"></i>
-                <span class="nav-item">Home</span>
-            </a></li>
-        <li><a href="#" class="logout">
-                <i class="fas fa-sign-out-alt"></i>
-                <span class="nav-item">Log out</span>
-            </a></li>
+        <li>
+            <a href="#" class="nav-link link-dark fw-bolder sidebar-hover">
+                <svg class="bi me-2" width="16" height="16">
+                    <use xlink:href="#speedometer2"></use>
+                </svg>
+                Xã hội
+            </a>
+        </li>
+        <li>
+            <a href="#" class="nav-link link-dark fw-bolder sidebar-hover">
+                <svg class="bi me-2" width="16" height="16">
+                    <use xlink:href="#table"></use>
+                </svg>
+                Đăng ký hiến máu online
+            </a>
+        </li>
+        <li>
+            <a href="#" class="nav-link link-dark fw-bolder sidebar-hover">
+                <svg class="bi me-2" width="16" height="16">
+                    <use xlink:href="#grid"></use>
+                </svg>
+                Đóng góp quỹ xã hội
+            </a>
+        </li>
+        <li>
+            <a href="#" class="nav-link link-dark fw-bolder sidebar-hover">
+                <svg class="bi me-2" width="16" height="16">
+                    <use xlink:href="#people-circle"></use>
+                </svg>
+                Hồ sơ người dùng
+            </a>
+        </li>
     </ul>
-</nav>
+</div>
+
 <!-- </body>
 </html> -->

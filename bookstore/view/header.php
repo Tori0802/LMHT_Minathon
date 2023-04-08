@@ -10,8 +10,9 @@
             crossorigin="anonymous" />
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/navbar.css" />
-        <!-- <link rel="stylesheet" type="text/css" href="/bookstore/asset/sidebar.css" /> -->
+        <link rel="stylesheet" type="text/css" href="/bookstore/asset/sidebar.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/home.css" />
+        <link rel="stylesheet" type="text/css" href="/bookstore/asset/footer.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <title>BloodBond</title>
     </head>
@@ -32,7 +33,7 @@
         </script>
 
         <!-- Start Navbar -->
-        <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <nav class="navbar navbar-expand-md navbar-white bg-white">
             <div class="container-fluid" style="margin: 0 10px;">
                 <a href="#" class="navbar-brand" style="margin-right:50px;"><img src="/bookstore/asset/img/logo.png"
                         alt="" width="100px"></a>
@@ -43,10 +44,10 @@
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="/bookstore/about" class="nav-link fw-bolder">About</a>
+                            <a href="/bookstore/about" class="nav-link fw-bolder link-dark">About</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/bookstore/contact" class="nav-link fw-bolder">Contact us</a>
+                            <a href="/bookstore/contact" class="nav-link fw-bolder link-dark">Contact us</a>
                         </li>
                     </ul>
                 </div>

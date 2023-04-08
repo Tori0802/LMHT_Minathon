@@ -9,7 +9,7 @@
     </div>
     <div class="col-sm-10">
         <div class="container">
-            <h1 class="my-5">Đối tác tiêu biểu</h1>
+            <h1 class="my-5 mx-5">Đối tác tiêu biểu</h1>
             <div class="container text-center" data-aos="fade-up">
                 <div class="row align-items-start">
                     <?php 
