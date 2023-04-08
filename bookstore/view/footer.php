@@ -1,4 +1,4 @@
-<footer>
+<footer class="mt-5">
     <div class="container p-5">
         <div class="row">
             <h2 class="text-white">Let's bring the drops of blood closer,<br> together</h2>
