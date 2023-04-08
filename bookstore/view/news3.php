@@ -4,108 +4,63 @@
 
 <div class="container justify-content-center d-flex h-100" >
     <div class="row" style="margin-bottom: 20px;">
-        <h2 style="margin: 20px 0;" >Sách về những bức thư chưa từng công bố của Xuân Quỳnh</h2>
+        <h2 style="margin: 20px 0;" >Quy trình hiến máu nhân đạo</h2>
+        <div class="news-meta" style="margin-bottom: 40px; font-style: italic;">
+            <span class="news-author">Posted by Tâm Bình</span>
+            <span class="news-date">20/11/2018 GMT+7</span>
+        </div>
         <p style="text-align: justify;">
-            Cuốn "Trong đáy mắt trời xanh là vĩnh viễn" gồm nhật ký và những bức thư 
-            chưa từng công bố của nữ sĩ Xuân Quỳnh.
+            <span style="font-weight: 700">Bước 1: Đăng ký và Tư vấn sức khoẻ</span> <br>
+                Người hiến máu xuất trình giấy tờ tùy thân và nhận được một bản đăng ký, điền đầy đủ các thông tin cần thiết và ký tên.
             <br>
-            Cuốn sách do Lưu Khánh Thơ - em gái Lưu Quang Vũ - biên soạn, 
-            công ty Nhã Nam phát hành nhằm kỷ niệm 80 năm ngày sinh của Xuân Quỳnh 
-            (6/10/1942-6/10/2022). Tác phẩm gồm 285 trang, chia làm ba phần: Nhật ký, 
-            Ghi chép và Thư từ.
+                Trong khi điền phiếu đăng ký người hiến máu có thể trao đổi bất cứ thắc mắc về vấn đề sức khỏe, hiến máu như thế nào với các nhân viên y tế và các bạn tuyên truyền viên.
             <br>
-            Nhật ký ghi lại quá trình Xuân Quỳnh mang bầu, sinh và chăm sóc con trai 
-            đầu lòng Tuấn Anh. Đầu tháng 9/1965, nữ sĩ biết mình mang thai. 
-            Việc có con khiến cuộc sống, công việc của Xuân Quỳnh đảo lộn. 
-            Chồng đi bộ đội, bà một mình vượt qua thai kỳ.
-            <br>
-            "Chiều 29/4/1966
-            <br>
-            Đây con mình đây. Mình đã sinh ra một con người thật sự, mình đã có con. 
-            Đứa trẻ nằm cạnh mình, nó ngọ nguậy. Một sinh vật thật kỳ lạ và rồi mình nghe 
-            nó khóc. Tiếng khóc yếu và đáng thương làm sao. Nó không gào lên và cũng 
-            không khóc oa oa như những đứa khác mà nó lại khóc "Ẹ... hẹ...e...he". 
-            Nghe thương quá! Cái giọng lại như ụm rụm. Tiếng khóc mỏng manh và cả cái 
-            tấm thân tí xíu của nó đều gửi cậy ở mình".
-        </p>
-            <img src="/bookstore/asset/img/news/news4-01.jpg" alt="" class="sub-img" width="100px;">
-            <figcaption style="font-size:13px; margin-bottom: 10px;">Cuốn "Trong đáy mắt trời xanh là vĩnh viễn". Ảnh: Lưu Quý</figcaption>
-        <p style="text-align: justify;">
-            Xuân Quỳnh còn gặp nhiều khó khăn khi một mình vừa làm việc, 
-            vừa chăm sóc con trai trong thời chiến. Tuấn Anh thường quấy khóc 
-            khiến nữ sĩ không được một giấc ngủ trọn vẹn, "lúc nào cũng mệt mỏi". 
-            Bà cũng ghi lại mọi khoảnh khắc trong cuộc sống con trai: 
-            Lần đầu tiên được đi ôtô, biết lẫy, bò, vui cười bên bố mẹ... 
-            Nữ sĩ còn làm thơ tặng con như bài Tuổi thơ của con, 
-            Mừng xuân mừng con thêm một tuổi mới.
-            <br>
-            Phần Ghi chép là các sự việc, con người mà Xuân Quỳnh gặp trong những chuyến đi 
-            đến Vĩnh Linh, Quảng Trị thời kỳ kháng chiến chống Mỹ những năm 1967-1973, 
-            được viết trong hai cuốn sổ. Đó là chuyện về em Thắng, 
-            13 tuổi ở Vĩnh Giang đẩy thuyền đưa bộ đội qua sông. 
-            Cô Lành ở Vĩnh Tân tận mắt chứng kiến người yêu hy sinh trên trận địa. 
-            Địa đạo bị sập, chết 61 người, đào ba ngày không nổi. 
-            Trẻ con sáu tuổi đi bộ từ Vĩnh Linh ra Nghệ An để sơ tán...
-            <br>
-            Xuân Quỳnh khắc họa những năm tháng gian khổ mà hào hùng của dân tộc, 
-                    đồng thời giúp người đọc hình dung hoàn cảnh ra đời nhiều bài thơ như 
-                    Những chuyện hò miền Trung và đảo Cồn Cỏ, Thời gian ta đi trong lòng đất...               
-            <br>
-            "Giặc Mỹ ném bom hủy diệt làng ta/ Xuân không xanh, 
-                    thu không vàng nữa/ Giữa ban ngày mịt mù bom tọa độ/ 
-                    Và ban đêm pháp sáng thắp thâu đêm..." 
-                    (Thời gian ta đi trong lòng đất, 12/11/1969).               
-            <br>
-            Thư từ chia làm ba phần nhỏ: Đối thoại tình yêu Xuân Quỳnh - Lưu Quang Vũ, 
-                    Viết riêng gửi con, Tình cảm gia đình. 
-                    Trong đó, phần một là những dòng tâm tình Xuân Quỳnh, 
-                    Lưu Quang Vũ gửi cho nhau trong những năm cuối đời. 
-                    Các bức thư được xếp theo trình tự thời gian, thể hiện tình cảm yêu thương, 
-                    đồng điệu trong tâm hồn cả hai. Ngoài ra, thư bày tỏ sự quan tâm đến người thân, 
-                    bạn bè, đồng nghiệp và những trăn trở, suy tư về hoạt động sáng tạo của hai nghệ sĩ.                
-                    
+                Đảm bảo người hiến máu thật sự thoải mái và tự nguyện khi hiến máu đồng thời đã được tìm hiểu thông tin về hiến máu cũng như tình trạng sức khỏe bản thân.
             <br>
         </p>
-        <img src="/bookstore/asset/img/news/news4-02.jpg" alt="" class="sub-img"  width="100px;">
-        <figcaption style="font-size:13px; margin-bottom: 10px;"> Vợ chồng Lưu Quang Vũ - Xuân Quỳnh. Ảnh:Gia đình cung cấp</figcaption>
+            <img src="https://tambinh.vn/wp-content/uploads/2018/11/IMG_0243-2.jpg" style="max-width: 50%; margin-bottom: 10px" class="img-fluid mx-auto d-block" alt="" class="sub-img" width="100px;">
         <p style="text-align: justify;">
-            Viết riêng gửi con là những bức thư nữ sĩ gửi con trai út Lưu Quỳnh Thơ. 
-            Khi ấy, mỗi lần đi công tác ở Liên Xô, bà thường dùng thư để kể lại những 
-            câu chuyện thú vị được nghe, chứng kiến ở nước bạn. 
-            Đó là cảm tưởng của bà lần đầu đi tàu điện ngầm ở Moskva, đi qua sa mạc Karakum, 
-            thăm các nhà thờ và lăng tẩm của vua ở Samarkand hay "mẹ xem vô tuyến mới biết 
-            Liên Xô có một cái rất thích đó là televízor (tiếng Nga là cầu vô tuyến)". 
-            Qua đó, bà gửi gắm tình cảm nhớ thương tới con. Nữ sĩ dặn con trai: 
-            "Các thư mẹ viết cho con, con cất giữ cho mẹ, vì đấy coi như ghi chép của mẹ. 
-            Sau này có khi mẹ lại cần".                 
+            <span style="font-weight: 700">Bước 2: Khám kiểm tra sức khỏe</span> <br>
+            Người hiến máu sẽ được các bác sỹ khám sức khỏe tổng quát để khai thác các tiền sử bệnh lý liên quan tới sức khỏe, kiểm tra các bệnh về huyết áp, tim mạch, giải đáp thắc mắc về tình hình sức khỏe và các bệnh lý liên quan nếu có.
             <br>
-            Tình cảm gia đình là thư nữ sĩ viết cho Lưu Quang Định - 
-            em trai Lưu Quang Vũ - khi cả hai gặp nhau tại Moskva tháng 12/1987.                   
+            Nếu người hiến máu đảm bảo không có tiền sử mắc các bệnh mãn tính, không có bệnh về huyết áp, tim mạch, không có tiền sử dùng các chất kích thích thì tiếp theo bác sĩ sẽ khai thác các yếu tố nguy cơ dẫn đến các bệnh có thể lây nhiễm qua đường máu
             <br>
-            Tên sách Trong đáy mắt trời xanh là vĩnh viễn lấy từ một câu thơ trong bài 
-            Có một thời như thế của Xuân Quỳnh. Lưu Khánh Thơ cho biết nó gợi đến những 
-            điều có giá trị và vĩnh viễn, như những tác phẩm nữ sĩ để lại cho nền văn học 
-            nước nhà, được nhiều thế hệ độc giả yêu mến.     
-            <br>
-            Theo bà Khánh Thơ, từ những trang nhật ký, ghi chép cụ thể, người đọc hiểu hơn về 
-            tâm tư tình cảm, chất liệu cuộc sống đã góp phần làm nên những sáng tác của 
-            Xuân Quỳnh. Khi biên soạn, bà đã chỉnh sửa một số cách viết cho phù hợp với 
-            quy tắc chính tả hiện nay.            
-            <br> 
-            "Trong đáy mắt trời xanh là vĩnh viễn cho thấy hình ảnh một người mẹ chan 
-            chứa tình mẫu tử, hết mực yêu thương con, một con người giàu tình thương và 
-            lòng trắc ẩn, và một nhà thơ không quản khó khăn, nguy hiểm xông pha vào nơi 
-            bão lửa, lấy trải nghiệm từ thực tế hào hùng của cuộc chiến tranh cứu nước làm 
-            nguồn cảm hứng chủ đạo trong tư duy sáng tạo", bà Thơ nói.               
         </p>
-        <img src="/bookstore/asset/img/news/news4-03.jpg" alt="" class="sub-img"  width="100px;">
-        <figcaption style="font-size:13px; margin-bottom: 10px;"> Xuân Quỳnh và con trai Lưu Quỳnh Thơ (bé Mí). Ảnh: Gia đình cung cấp</figcaption>
         <p style="text-align: justify;">
-            Xuân Quỳnh sinh năm 1942, nổi tiếng với bài Thuyền và biển, Sóng, 
-            Thơ tình cuối mùa thu, Tiếng gà trưa..., tập thơ Hoa dọc chiến hào, 
-            Lời ru trên mặt đất, Sân ga chiều em đi, Hoa cỏ may, Tự hát... 
-            Nữ sĩ được truy tặng Giải thưởng Hồ Chí Minh năm 2017.               
+            <span style="font-weight: 700">Bước 3: Xét nghiệm máu nhanh</span> <br>
+            Người đăng ký hiến máu sẽ được lấy máu làm các xét nghiệm kiểm tra trước hiến máu, bao gôm:
+            <ul style="padding-left: 30px">
+                <li>Huyết sắc tố: hay còn gọi là Hemoglobin là thành phần quan trọng của hồng cầu, nhằm đảm bảo máu đủ chất lượng theo quy định để truyền cho người bệnh. Đạt tiêu chuẩn hiến máu khi lượng huyết sắc tố đạt trên 120gam/lít.</li>
+                <li>Xét nghiệm virus HIV, viêm gan B bằng kit xét nghiệm nhanh.</li>
+            </ul>
+            Người hiến máu có thể lựa chọn tiến hành thêm các xét nghiệm khác tùy vào độ tuổi và tình trạng sức khỏe, cụ thể:
+            <ul style="padding-left: 30px">
+                <li>Đối với người trẻ, đặc biệt là ở tuổi sinh đẻ, nên chọn xét nghiệm đánh giá tình trạng sinh máu (hồng cầu, bạch cầu, tiểu cầu), hấp thu sắt, sàng lọc bệnh tan máu bẩm sinh…</li>
+                <li>Người hiến máu sau tuổi 35: lựa chọn các xét nghiệm sàng lọc tiểu đường, chuyển hóa đạm, mỡ, chức năng gan, thận, xét nghiệm chỉ số axit uric trong máu để phát hiện nguy cơ bệnh gout,…</li>
+                <li>Người hiến máu sau tuổi 45: ngoài các xét nghiệm trên có thể lựa chọn thêm xét nghiệm sàng lọc một số dấu ấn có liên quan đến tình trạng phổi, gan, tiêu hóa, thận, tiền liệt tuyến, tử cung, buồng trứng,…</li>
+            </ul>
+            Mục đích tiến hành các xét nghiệm
+            <ul style="padding-left: 30px">
+                <li>Đảm bảo chất lượng máu hiến tặng</li>
+                <li>Đảm bảo chất lượng máu hiến tặng</li>
+            </ul>
+            <br>
+            Sau kiểm tra, các bác sỹ sẽ đọc kết quả và kiểm tra tổng thể một lần cuối cùng và kết luận người hiến máu đó có đủ điều kiện để cho máu không.      
+            <br>         
+        </p>
+        <p style="text-align: justify;">
+        <span style="font-weight: 700">Bước 4: Hiến máu</span> <br>
+            Người hiến máu sau khi được bác sĩ khẳng định đủ điều kiện hiến máu sẽ chờ để gọi tên vào bàn hiến máu.
+        <br>
+            Tại đây người hiến máu sẽ được các nhân viên y tế hướng dẫn những điều cần chú ý trước, trong và sau khi lấy máu. Cần phối hợp tốt để việc lấy máu diễn ra nhanh và thuận lợi hơn.
+        <br>
+            Mỗi người sẽ dành trung bình 5 phút cho việc hiến máu với lượng máu hiến mỗi lần là 250ml, 350ml hoặc 450ml (tùy theo thể trạng từng người và do bác sỹ chỉ định).
+        <br>
+            Chỉ rời bàn lấy máu khi được sự cho phép của nhân viên y tế, nếu thấy bất cứ biểu hiện gì khác thường cần báo cho nhân viên y tế.           
         <p>
+        <span style="font-weight: 700">Bước 5: Nghỉ ngơi và nhận giấy chứng nhận sau hiến máu</span> <br>
+            Sau hiến máu, người hiến máu sẽ nghỉ tại chỗ ít nhất 10 phút, được phục vụ ăn nhẹ và được khuyến cáo uống nhiều nước sau khi hiến máu. Người hiến máu sẽ được trao giấy xác nhận hiến máu và quà lưu niệm trước khi ra về.
+        
     </div>
 </div>
 
