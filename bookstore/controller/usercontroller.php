@@ -16,25 +16,25 @@ class user extends Controller {
             if ($username == "" || $password == "") {
                 $msg1 = "Tên đăng nhập hoặc mật khẩu không được để trống!";
                 $_SESSION['loginmessage'] = $msg1;
-                header('Location: /bookstore/home');
+                header('Location: /bookstore/news');
             } else {
                 $login = $this->model("UserModel");
                 $success = $login->login($username, $password);
                 if ($success == true) {
                     $msg1 = "success";
                     $_SESSION['loginmessage'] = $msg1;
-                    header('Location: /bookstore/home');
+                    header('Location: /bookstore/news');
                     die;
                 } else {
                     $msg1 = "Wrong username or password!";
                     $_SESSION['loginmessage'] = $msg1;
-                    header('Location: /bookstore/home');
+                    header('Location: /bookstore/news');
                     die;
                 }
             }
         } else {
             $_SESSION['loginmessage'] = $msg1;
-            header('Location: /bookstore/home');
+            header('Location: /bookstore/news');
         }
     }
 
@@ -42,7 +42,7 @@ class user extends Controller {
         session_unset();
         //session_destroy();
         $_SESSION['loginmessage'] = "signout";
-        header("location: /bookstore/home");
+        header("location: /bookstore/news");
     }
 
     function signup() {
