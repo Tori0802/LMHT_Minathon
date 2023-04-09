@@ -58,15 +58,15 @@
                             <a href="/bookstore/news"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">News</a>
                         </li>
-                        <!-- <li class="nav-item">
+                        <li class="nav-item">
                             <a href="/bookstore/about"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">About</a>
-                        </li> -->
-                        <!-- <li class="nav-item">
+                        </li>
+                        <li class="nav-item">
                             <a href="/bookstore/contact"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
                                 us</a>
-                        </li> -->
+                        </li>
                         <li class="nav-item">
                             <a href="/bookstore/hospital"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Hospital</a>
