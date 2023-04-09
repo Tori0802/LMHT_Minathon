@@ -13,6 +13,8 @@
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/sidebar.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/home.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/footer.css" />
+        <link rel="stylesheet" type="text/css" href="/bookstore/asset/friend.css" />
+        <link rel="stylesheet" type="text/css" href="/bookstore/asset/social.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <title>BloodBond</title>
     </head>
@@ -76,7 +78,7 @@
                                 </path>
                             </svg></button>
                         <input type="text" class="form-control rounded-pill text-dark btn-outline-danger bg-transparent"
-                            placeholder="Tìm kiếm" aria-label="Tìm kiếm" aria-describedby="basic-addon1">
+                            placeholder="Search..." aria-label="Tìm kiếm" aria-describedby="basic-addon1">
                     </div>
                 </form>
 
@@ -101,14 +103,14 @@
                 <!-- Login/Signup Modal -->
                 <span id="loginModal">
                     <button type="button" class="btn btn-outline-danger rounded-pill mx-3 fw-bolder" data-toggle="modal"
-                        data-target="#exampleModalCenter"> Đăng nhập/Đăng ký </button>
+                        data-target="#exampleModalCenter"> Login/Sign up </button>
                     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
                         aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                             <div class="modal-content">
                                 <form action="/bookstore/user/login" method="POST">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle">Đăng nhập</h5>
+                                        <h5 class="modal-title" id="exampleModalLongTitle">Login</h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"
                                             onclick="clearLoginMessage()">
                                             <span aria-hidden="true">&times;</span>
@@ -116,22 +118,19 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="form-group">
-                                            <label class="my-3 fw-bolder" for="login_username">Tài khoản:</label>
+                                            <label class="my-3 fw-bolder" for="login_username">Account</label>
                                             <input type="text" class="form-control form-dang-nhap" name="username"
-                                                id="login_username" placeholder="Tên tài khoản">
+                                                id="login_username" placeholder="Enter your account name">
                                         </div>
                                         <div class="form-group">
-                                            <label class="my-3 fw-bolder" for="login_password">Mật khẩu:</label>
+                                            <label class="my-3 fw-bolder" for="login_password">Password</label>
                                             <input type="password" class="form-control form-dang-nhap" name="password"
-                                                id="login_password" placeholder="Mật khẩu">
+                                                id="login_password" placeholder="Enter your password">
                                         </div>
                                         <div class="form-group form-check my-3">
                                             <input type="checkbox" class="form-check-input form-dang-nhap"
                                                 id="exampleCheck1">
-                                            <label class="form-check-label fw-bolder" for="exampleCheck1">Ghi nhớ tôi
-                                                vào
-                                                lần đăng
-                                                nhập sau.</label>
+                                            <label class="form-check-label fw-bolder" for="exampleCheck1">Remember me the next time you log in</label>
                                         </div>
                                         <div>
                                             <p id="message" style='color: red'>
@@ -142,10 +141,10 @@
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-secondary">
                                             <a href="/bookstore/user/signup"
-                                                style="text-decoration:none; color:white;">Đăng kí</a>
+                                                style="text-decoration:none; color:white;">Sign up</a>
                                         </button>
                                         <button type="submit" class="btn btn-danger" name="login_button"
-                                            id="login_button">Đăng nhập</button>
+                                            id="login_button">Login</button>
                                     </div>
                                 </form>
                             </div>
@@ -156,7 +155,7 @@
                 <!-- Signout -->
                 <form action="/bookstore/user/signout" method="POST">
                     <button type="submit" id="signout" class="btn btn-outline-light d-none" style="margin-left:10px;">
-                        Đăng xuất </button>
+                        Logout </button>
                 </form>
 
                 <!-- Cart -->

@@ -1,0 +1,37 @@
+.friends-list {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .friends-list-header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .friends-list-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .friends-list-items li {
+    align-items: center;
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .friends-list-items li img {
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .friends-list-items li span {
+    font-size: 16px;
+    font-weight: bold;
+  }
