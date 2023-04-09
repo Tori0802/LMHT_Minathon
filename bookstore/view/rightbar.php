@@ -2,7 +2,7 @@
   <div class="message fw-bold" style="margin: 20px 75px; color: rgba(220,53,69,1); font-size: 20px">Friends</div>
   <ul class="friends-list-items nav nav-pills flex-column mb-auto align-items-center">
     <li class="nav-item justify-content-center">
-        <a href="./view/message.php" class="nav-link link-dark fw-bolder sidebar-hover" aria-current="page">
+        <a href="/bookstore/message" class="nav-link link-dark fw-bolder sidebar-hover" aria-current="page">
             <svg class="bi me-2" width="1" height="1" >
                 <use xlink:href="#"></use>
             </svg>

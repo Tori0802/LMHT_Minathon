@@ -6,7 +6,7 @@ class Database
 	private $server = 'localhost';
 	private $dbName = 'bookstore';
 	private $user = 'root';
-	private $password = '';
+	private $password = '';	
 
 	// Construct connect database
 	public function __construct() {
