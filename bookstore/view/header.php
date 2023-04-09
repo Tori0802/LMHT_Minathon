@@ -161,7 +161,7 @@
 
                 <!-- Signout -->
                 <form action="/bookstore/user/signout" method="POST">
-                    <button type="submit" id="signout" class="btn btn-outline-light d-none" style="margin-left:10px;">
+                    <button type="submit" id="signout" class="btn btn-outline-danger rounded-pill d-none mx-3" style="margin-left:10px;">
                         Logout </button>
                 </form>
 
