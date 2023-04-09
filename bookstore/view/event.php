@@ -103,7 +103,7 @@ window.initMap = initMap;
     <div class="d-flex flex-column flex-shrink-0 p-1 bg-white border-2 border-danger rounded" style="width: 280px;">
     <ul class="nav nav-pills flex-column mb-auto">
         <li class="nav-item">
-            <a href="/bookstore/event/default" class="nav-link link-dark fw-bolder sidebar-hover" aria-current="page">
+            <a href="/bookstore/event/default" class="list_btn nav-link link-dark fw-bolder sidebar-hover" aria-current="page">
                 <svg class="bi me-2" width="16" height="16">
                     <use xlink:href="/bookstore/event/default"></use>
                 </svg>
@@ -111,7 +111,7 @@ window.initMap = initMap;
             </a>
         </li>
         <li>
-            <a href="/bookstore/event/map" class="nav-link link-dark fw-bolder sidebar-hover">
+            <a href="/bookstore/event/map" class="map_btn nav-link link-dark fw-bolder sidebar-hover">
                 <svg class="bi me-2" width="16" height="16">
                     <use xlink:href="/bookstore/event/map"></use>
                 </svg>

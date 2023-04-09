@@ -11,7 +11,7 @@
         </div>
     </div>
 
-    <div class="col-sm-7 border" style="padding-top: 20px">
+    <div class="col-sm-7 border" style="padding-top: 20px; background-color: #ffdee3">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -23,7 +23,7 @@
                 <div class="row gx-5" style="padding-left: 50px; padding-right: 50px">
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem" >
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -38,7 +38,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem;">
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem;">
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -72,7 +72,7 @@
                 <div class="row gx-5" style="padding-left: 50px; padding-right: 50px">
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem;">
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -87,7 +87,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem;">
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card" style="height: 13rem;">
-                            <div class="card-body" style="height: 10rem;">
+                            <div class="card-body shadow" style="height: 10rem;">
                                 <div class="d-flex flex-column align-items-center text-center">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="50">
                                     <div class="mt-3">
@@ -141,7 +141,6 @@
                 <div class="form-group">
                 <div class="custom-file">
                     <input type="file" class="custom-file-input" id="customFile">
-                    <label class="custom-file-label" for="customFile">Choose file</label>
                 </div>
                 </div>
             </div>
@@ -149,11 +148,11 @@
             <button style="background: linear-gradient(to right, #dc8b35, #dc3535);
                 color: #fff;
                 border: none;
-                padding: 10px 20px;
+                padding: 10px 50px;
                 border-radius: 25px"
                 onmouseover="this.style.background='linear-gradient(to right, #dc3535, #dc8b35)'"
                 onmouseout="this.style.background='linear-gradient(to right, #dc8b35, #dc3535)'">
-                Gradient Button
+                Post
             </button>
 
             </div>
