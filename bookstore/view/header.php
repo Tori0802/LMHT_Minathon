@@ -12,7 +12,15 @@
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/navbar.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/sidebar.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/home.css" />
+        <link rel="stylesheet" type="text/css" href="/bookstore/asset/notification.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/footer.css" />
+        <link rel="stylesheet" type="text/css"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+            href="https://cdn.datatables.net/searchpanes/2.1.2/css/searchPanes.dataTables.min.css">
+        <link rel="stylesheet" type="text/css"
+            href="https://cdn.datatables.net/select/1.6.2/css/select.dataTables.min.css">
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/friend.css" />
         <link rel="stylesheet" type="text/css" href="/bookstore/asset/social.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -159,17 +167,17 @@
 
                 <!-- Cart -->
                 <?php 
-          // if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
-          //   echo <<< _END
-          //   <a href="/bookstore/cart">
-          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-          //   </a>
-          //   _END;
-          // } else {
-          //   echo <<< _END
-          //     <img id="cart" src="/bookstore/asset/img/cart-logo.png" alt="Cart" width="40px" style="margin-left: 10px; cursor:pointer; filter: invert(100%); -webkit-filter: invert(100%);">
-          //   _END;
-          // }
+          if (isset($_SESSION['loginmessage']) && $_SESSION['loginmessage'] == "success") {
+            echo <<< _END
+            <a href="/bookstore/notification">
+              <i class="fa-solid fa-bell icon-item-notification fs-4 rounded-circle px-1 py-1"></i>
+            </a>
+            _END;
+          } else {
+            echo <<< _END
+              <i class="fa-solid fa-bell icon-item-notification fs-4 rounded-circle px-1 py-1"></i>
+            _END;
+          }
         ?>
 
             </div>
@@ -228,12 +236,3 @@
             $("#exampleModalCenter").modal('show');
         });
         </script>
-
-        <!-- 
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
-  </body>
-</html> -->
