@@ -2,12 +2,6 @@
     require_once('./view/header.php')
 ?>
 <div class="row mb-5">
-    <div class="col-sm-2">
-        <?php
-        require_once("./view/sidebar.php");
-        ?>
-    </div>
-    <div class="col-sm-10">
         <div class="container">
             <div class="container">
                 <div class="row row-cols-1 row-cols-md-3 g-4">
@@ -62,7 +56,6 @@
                     </div>
             </div>
         </div>
-    </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>

@@ -5,7 +5,9 @@
 <div class="social row mb-3 border">
     <div class="col-sm-3">
         <div class="container">
-            Hello world
+        <?php
+          require_once('./view/leftbar.php')
+        ?>
         </div>
     </div>
 
@@ -298,7 +300,9 @@
 
     <div class="col-sm-2 border">
         <div class="container">
-            Hello world
+          <?php
+            require_once('./view/rightbar.php')
+          ?>
         </div>
     </div>
 </div>
