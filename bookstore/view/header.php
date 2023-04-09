@@ -52,21 +52,16 @@
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">News</a>
                         </li>
                         <li class="nav-item">
-                            <a href="/bookstore/about"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/bookstore/contact"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Contact
-                                us</a>
-                        </li>
-                        <li class="nav-item">
                             <a href="/bookstore/hospital"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Hospital</a>
                         </li>
                         <li class="nav-item">
                             <a href="/bookstore/event"
                                 class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Event</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/shop"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">For U</a>
                         </li>
                     </ul>
                 </div>
