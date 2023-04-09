@@ -28,7 +28,7 @@
               <h2 class="heading-39291">Lịch sử công ty</h2>
                 Với phương châm hoạt động “Tất cả vì Khách Hàng”, National Bookstore luôn không ngừng nỗ lực nâng cao chất lượng dịch vụ và sản phẩm, từ đó mang đến trải nghiệm mua sắm trọn vẹn cho Khách Hàng Việt Nam với dịch vụ giao
                 hàng nhanh trong 2 tiếng và ngày hôm sau National Bookstore lần đầu tiên tại Đông Nam Á, cùng cam kết cung cấp
-                hàngchính hãng với chính sách hoàn tiền 111% nếu phát hiện hàng giả, hàng nhái.            
+                hàng chính hãng với chính sách hoàn tiền 111% nếu phát hiện hàng giả, hàng nhái.            
             </div>
           </div>
           <div class="col-lg-8" style="margin-bottom:20px;">

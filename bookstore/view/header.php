@@ -35,7 +35,7 @@
         </script>
 
         <!-- Start Navbar -->
-        <nav class="navbar navbar-expand-md navbar-white bg-white">
+        <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom">
             <div class="container-fluid" style="margin: 0 10px;">
                 <a href="#" class="navbar-brand"><img src="/bookstore/asset/img/BloodBond-logo.png" alt="" width="100px"
                         class="rounded-circle"></a>
@@ -47,24 +47,23 @@
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a href="/bookstore/social"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Social</a>
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Social</a>
                         </li>
                         <li class="nav-item">
                             <a href="/bookstore/news"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">News</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/bookstore/about"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/bookstore/contact"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Contact
-                                us</a>
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">News</a>
                         </li>
                         <li class="nav-item">
                             <a href="/bookstore/hospital"
-                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4">Hospital</a>
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Hospital</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/event"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">Event</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/bookstore/shop"
+                                class="nav-link fw-bolder link-dark rounded navbar-hover fs-4 mx-2">For U</a>
                         </li>
                     </ul>
                 </div>
@@ -92,7 +91,7 @@
             echo <<< _END
               <a id="avatar" class="nav-item text-primary" href="/bookstore/profile" style="text-decoration:none;">
                 <span id="userLoginName">
-                  <em style="color:white;">$username</em>
+                  <em class="mx-3 link-dark">$username</em>
                   <img class="rounded-circle" style="height:50px; width:auto" src="$img">
                 </span>
               </a> 
