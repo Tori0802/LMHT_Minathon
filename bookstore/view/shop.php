@@ -1,6 +1,7 @@
 <?php
   require_once("./view/header.php");
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,7 +19,7 @@
         }
 
         body{
-            font-size: 1.7rem;
+            
             font-family: 'Merriweather Sans', sans-serif;
             color: #ececec;
             
@@ -27,7 +28,6 @@
         h2{
             text-align: center;
             margin-bottom: 5rem;
-            font-size: 4rem;
         }
 
         .all-products{

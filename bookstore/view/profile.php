@@ -121,25 +121,25 @@
                 <div class="row mt-2">
                     <div class="col-md-6">
                         <label class="labels">Height</label>
-                        <input type="text" class="form-control" value="<?php echo $_SESSION['firstname'] ?>"name="firstname" pattern="^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$" required>
+                        <input type="text" class="form-control" value="" required>
                     </div>
                     <div class="col-md-6">
                         <label class="labels">Weight</label>
-                        <input type="text" class="form-control" value="<?php echo $_SESSION['lastname'] ?>"name="lastname" pattern="^[a-zA-Z]+(([',. -][a-zA-Z ])?[a-zA-Z]*)*$" required>
+                        <input type="text" class="form-control" value="" required>
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-12 mb-3">
                         <label class="labels">Blood Group</label>
-                        <input type="number" class="form-control" value="<?php echo $_SESSION['phone'] ?>" name="phone" pattern="/^\+?\d{1,4}?[-.\s]?\(?\d{1,3}?\)?[-.\s]?\d{1,4}[-.\s]?\d{1,4}[-.\s]?\d{1,9}$/" required>
+                        <input type="number" class="form-control" value="" required>
                     </div>
                     <div class="col-md-12 mb-3">
                         <label class="labels">Last time to donate blood</label>
-                        <input type="text" class="form-control" value="<?php echo $_SESSION['user_address'] ?>" name="user_address">
+                        <input type="text" class="form-control" value="">
                     </div>
                     <div class="col-md-12 mb-3">
                         <label class="labels">Anamnesis</label>
-                        <input type="email" class="form-control" value="<?php echo $_SESSION['email'] ?>" name="email">
+                        <input type="email" class="form-control" value="">
                     </div>
                 </div>
                 <div class="mt-5 text-center">
