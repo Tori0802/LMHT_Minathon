@@ -14,18 +14,18 @@
         <tbody>
             <tr onclick="window.location='./home.php'">
                 <td>1</td>
-                <td>Huyết học</td>
-                <td>nội dung</td>
+                <td>Huyết Học</td>
+                <td>Need 4 blood units</td>
             </tr>
             <tr onclick="window.location='./home.php'">
                 <td>2</td>
-                <td>Ưng bứu</td>
-                <td>nội dung</td>
+                <td>Ung Bướu</td>
+                <td>Need 10 blood units</td>
             </tr>
             <tr onclick="window.location='./home.php'">
                 <td>3</td>
-                <td>Từ dũ</td>
-                <td>nội dung</td>
+                <td>Từ Dũ</td>
+                <td>Need 50 blood units</td>
             </tr>
         </tbody>
     </table>
